@@ -1,6 +1,6 @@
 .timingselectdivswrapper {
   display: flex;
-  gap: 30px;
+  gap: 10px;
   justify-content: center;
   min-height: 400px;
 }
