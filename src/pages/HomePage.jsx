@@ -243,7 +243,7 @@ const HomePage = () => {
       <Toaster position="top-center" reverseOrder={true} />
 
       <div className="top container">
-        <h1>👨🏻‍💻 Interns Practical Assessment 👨🏻‍💻</h1>
+        <h1>👨🏻‍💻 Planner 👨🏻‍💻</h1>
         <div>
           <p>Plan Name: </p>
           <input
